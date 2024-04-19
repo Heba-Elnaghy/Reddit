@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571729729718",
+    "project_id": "reddit-df2f4",
+    "storage_bucket": "reddit-df2f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571729729718:android:95b71438d5e65813986e17",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8KhfU2jQvRMW-ymZzfayAIdFOu3yc08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
